@@ -1,0 +1,7 @@
+proj.user
+.Rhistory
+.RData
+.Ruserdata
+data/
+
+.Rproj.user
